@@ -1,0 +1,52 @@
+.bg{
+width: 1920px;
+height: 1024px;
+background-image:url(../img/background.png);  
+background-color: grey;
+}
+.logo{
+    margin-left: 390px;
+    margin-top: 40px;
+}
+.waxom {
+  font-size: 34px;
+  font-family: 'Raleway', sans-serif;
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  margin-left: 450px;
+  margin-top: -50px;
+}
+.header{
+    margin-left: 700px;
+    margin-top: -50px;
+}
+ul
+li { 
+display: inline;
+float:left;
+margin-left: 40px;
+}
+a{
+  font-size: 14px;
+  font-family: "Montserrat";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-decoration: none;
+  
+}
+a:hover {
+color: black;
+   
+}
+a:active {  
+color: black;    
+}
+.cart{
+  fill:rgb(255, 255, 255); 
+    margin-left: 70px;
+}
+.search {
+    fill:rgb(255, 255, 255); 
+    margin-left: 20px;
+}
